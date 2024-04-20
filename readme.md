@@ -1,4 +1,4 @@
-<h1 align="left">Halo👋,  Apa kabar?</h1>
+<h1 align="center">Halo👋,  Apa kabar?</h1>
 
 ###
 
