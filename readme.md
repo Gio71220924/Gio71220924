@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Programming language I've been work with:</h2>
+<h2 align="center">Programming language I've been work with:</h2>
 
 ###
 
