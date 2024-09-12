@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java OOP, IoT, and Web Programming.<br>🎲: Currently learning about cybersecurity and Amazon Web Service (AWS)</p>
+<p align="left">📚Currently, I'm part of the Bangkit Academy 2024 Cloud Computing Learning Path, where I'm deepening my skills in cloud computing. </p>
 
 ###
 
