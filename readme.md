@@ -11,8 +11,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] (htt
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/Gio71220924">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gio71220924&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gio71220924&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gio71220924&layout=compact&theme=algolia"/>
 </a>
 </p>
