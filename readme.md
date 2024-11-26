@@ -1,63 +1,20 @@
-<h1 align="center">Halo👋,  Apa kabar?</h1>
+<h1 align="center">Hi There, My name is Giovanka Steviano Harry Premono</h1>
+<h3 align="center">A passionate Informatics Students from Indonesia</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gio71220924&label=Profile%20views&color=0e75b6&style=flat" alt="gio71220924" /> </p>
 
-<p align="left">My name is Giovanka Steviano Harry Premono and I'm majoring in Informatics. My interest topics are Cyber security and Internet of Things (IOT). Feel free to explore my Github profile!</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gio71220924" alt="gio71220924" /></a> </p>
 
-###
+- 🌱 I’m currently learning **Web Programming, Internet of Things(IoT), Java, and Amazon Web Service (AWS).**
 
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">📚Currently, I'm part of the Bangkit Academy 2024 Cloud Computing Learning Path, where I'm deepening my skills in cloud computing. </p>
-
-###
-
-<h2 align="center">Programming language I've been work with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="left">Contact Me:</p>
-
-###
-
-<br clear="both">
-
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/giovanka-steviano-h-7ab588227/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
-  <a href="mailto:steve27041892@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-</div>
-
-###
-
-
-### Github Statistic
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Gio71220924">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gio71220924&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gio71220924&layout=compact&theme=algolia"/>
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanka-steviano-h-7ab588227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanka-steviano-h-7ab588227/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gio71220924&show_icons=true&locale=en" alt="gio71220924" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gio71220924&" alt="gio71220924" /></p>
