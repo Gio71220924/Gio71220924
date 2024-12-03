@@ -19,7 +19,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gio71220924&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="gio71220924" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gio71220924&theme=monokai&hide_border=true" alt="gio71220924" />
+        <img src="![Gio71220924's Stats](https://github-readme-stats.vercel.app/api?username=Gio71220924&theme=monokai&show_icons=true&hide_border=true&count_private=true)" alt="gio71220924" />
       </td>
     </tr>
   </table>
