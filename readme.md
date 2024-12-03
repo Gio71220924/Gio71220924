@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gio71220924&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="gio71220924" />
   </div>
