@@ -12,11 +12,11 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gio71220924&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="gio71220924" />
   </div>
-  <div>
+  <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Gio71220924&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="gio71220924" />
   </div>
 </div>
