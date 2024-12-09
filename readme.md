@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Gio71220924/Gio71220924/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gio71220924/snake.svg)
 
 ###
