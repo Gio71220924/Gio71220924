@@ -9,3 +9,11 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gio71220924&show_icons=true&locale=en" alt="gio71220924" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gio71220924/Gio71220924/output/snake.svg" alt="Snake animation" />
+
+###
