@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gio, I am Informatics Students from DWCU Yogyakarta!</h2>
+<h2 align="left">Hi 👋! My name is Gio, I am an Informatics Student from DWCU Yogyakarta!</h2>
 
 ###
 
@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gio71220924/Gio71220924/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Gio71220924/Gio71220924/output/snake.svg)
 
 ###
