@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/giohp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-giohp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:stevianohp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-stevianohp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:giovanka.steviano@ti.ukdw.ac.id">
+    <img src="https://img.shields.io/badge/Email-giovanka.steviano@ti.ukdw.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 ---
